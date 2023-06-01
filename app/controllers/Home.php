@@ -6,7 +6,7 @@ class Home extends BaseController
     {
 
         $data = [
-            'title' => 'opdrachten periode 4'
+            'title' => 'Toets P4'
         ];
 
         $this->view('home/index', $data);
